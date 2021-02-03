@@ -1,0 +1,8 @@
+scratch.ps1
+*.tfstate
+*.tfstate.*.backup
+*.tfstate.backup
+*.tfvars
+.terraform/
+*.zip
+*.gitignore.*
